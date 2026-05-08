@@ -9,11 +9,11 @@ last_name: Liu
 contact_note: >
   Email is the best way to reach me.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal academic homepage of Pengju Liu — PhD student working on demand-response-oriented building energy systems and human-centered built environment.
+  Personal academic homepage of Pengju Liu — PhD student at Umeå University working on energy-efficient, flexible building energy systems with AI and smart control.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: building energy, demand response, human-centered design, building simulation, HVAC, indoor environment
+keywords: Pengju Liu, Umeå University, building energy, demand response, AI for buildings, smart control, HVAC, sustainable buildings, occupant-centric control
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🏠 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 

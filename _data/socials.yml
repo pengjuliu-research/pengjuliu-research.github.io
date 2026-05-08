@@ -1,14 +1,13 @@
 # Social media links shown at the bottom of the about page (and in nav if enabled).
-# Comment out any line you don't want to display. Add your own usernames where shown.
 # Reference: https://github.com/george-gca/jekyll-socials
 
-email: callmepengju@gmail.com
-# orcid_id: 0000-0000-0000-0000          # your ORCID
-# scholar_userid: XXXXXXXXXXXX           # your Google Scholar userid (the string after `user=` in your scholar URL)
+email: pengju.liu@umu.se
+orcid_id: 0000-0002-5760-2147
 github_username: pengjuliu-research
-# linkedin_username: your-linkedin-handle
-# x_username: your-x-handle              # X / Twitter
-# researchgate_username: your-rg-handle
-# semanticscholar_id: your-ss-id
+# scholar_userid:                # uncomment + fill once you have a Google Scholar profile (the value after `user=` in the URL)
+# linkedin_username:              # uncomment + fill if you want LinkedIn shown
+# researchgate_username:
+# semanticscholar_id:
+# x_username:
 
 rss_icon: true

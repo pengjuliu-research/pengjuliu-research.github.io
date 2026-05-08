@@ -1,58 +1,175 @@
 cv:
   name: Pengju Liu
   label: PhD Student
-  email: callmepengju@gmail.com
-  location: ""
+  email: pengju.liu@umu.se
+  phone: "+46 722 208 507"
+  url: https://pengjuliu-research.github.io
+  location: Umeå, Sweden
   image: ""
-  summary: PhD student researching demand-response-oriented building energy systems and human-centered built environment design.
+  summary: >
+    PhD student at Umeå University working on energy-efficient and flexible
+    building energy systems by leveraging state-of-the-art artificial
+    intelligence and smart control. Aims to contribute to sustainable Building
+    Environment and Energy (BEE) and the energy transition.
 
   social_networks:
+    - network: ORCID
+      username: 0000-0002-5760-2147
     - network: GitHub
       username: pengjuliu-research
-    # - network: LinkedIn
-    #   username: your-linkedin-handle
 
   address:
-    street: ""
-    city: ""
-    region: ""
-    postalCode: ""
-    countryCode: ""
+    city: Umeå
+    countryCode: SE
 
   sections:
     Education:
-      - institution: "[Your Institution]"
-        location: "[City, Country]"
-        url: ""
-        area: "[Your Field, e.g., Building Science]"
-        studyType: PhD
-        start_date: ""
-        end_date: ""
+      - institution: Umeå University
+        location: Umeå, Sweden
+        url: https://www.umu.se/en/department-of-applied-physics-and-electronics/
+        area: Department of Applied Physics and Electronics
+        studyType: PhD (Doctoral Student)
+        start_date: "2023-08"
+        end_date: Present
         score: ""
         courses: ""
         highlights:
-          - "[Add a highlight, e.g., research advisor, key coursework, or remove this list]"
+          - "Topic: AI- and smart-control-driven energy-efficient and flexible building energy systems."
+          - "Funded by FORMAS and Swedish Energy Agency projects on intelligent human–building interactions."
 
-    Research Interests:
-      - title: Demand-Response-Oriented Building Energy Systems
-        keywords:
-          - "Building flexibility"
-          - "Reduced-order modeling (RC models)"
-          - "Data-driven control"
-      - title: Human-Centered Built Environment
-        keywords:
-          - "Indoor environmental quality"
-          - "Occupant comfort and health"
+      - institution: KTH Royal Institute of Technology — Granryd Lab
+        location: Stockholm, Sweden
+        url: https://www.energy.kth.se/
+        area: Energy Efficiency
+        studyType: Visiting Researcher
+        start_date: "2025-05"
+        end_date: "2025-05"
+        score: ""
+        courses: ""
+        highlights: []
 
-    Publications:
-      - "[Author list]. [Title]. [Venue], [Year]. (See the publications page for the full list.)"
+      - institution: Xi'an University of Architecture and Technology (XAUAT)
+        location: Xi'an, China
+        url: https://www.xauat.edu.cn/
+        area: Heating, Ventilation, and Air Conditioning Engineering
+        studyType: Master of Engineering
+        start_date: "2020-09"
+        end_date: "2023-07"
+        score: ""
+        courses: ""
+        highlights:
+          - "Outstanding Graduate of Shaanxi Province (2023)."
+
+      - institution: North China University of Water Resources and Electric Power (NCWU)
+        location: Zhengzhou, China
+        url: https://www.ncwu.edu.cn/
+        area: Building Environment and Energy Application Engineering
+        studyType: Bachelor of Engineering
+        start_date: "2016-09"
+        end_date: "2020-06"
+        score: ""
+        courses: ""
+        highlights:
+          - "Outstanding Graduate of Henan Province (2020)."
+          - "Outstanding Graduate of University (2020)."
+
+    Honors and Awards:
+      - title: Best Paper Award, CRIOCM 2025
+        date: "2025"
+      - title: Best Paper Award, ICCREM 2025
+        date: "2025"
+      - title: Best Paper Award, ICCREM 2024
+        date: "2024"
+      - title: Outstanding Graduate of Shaanxi Province
+        date: "2023"
+      - title: Excellent Design — 20th MDV (Midea Group) Central Air Conditioning System Design
+        date: "2022"
+      - title: Third Prize — 9th China Graduate Energy Equipment Innovation Design Competition
+        date: "2022"
+      - title: Best Presentation, 10th SuDBE Conference
+        date: "2021"
+      - title: Second Prize — 14th College Students Energy Conservation and Emission Reduction Social Practice and Science and Technology Competition
+        date: "2021"
+      - title: Outstanding Graduate of Henan Province
+        date: "2020"
+      - title: Outstanding Graduate of University
+        date: "2020"
+      - title: Excellent Design — 17th MDV (Midea Group) Central Air Conditioning System Design
+        date: "2019"
+
+    Scholarships and Seed Funding:
+      - title: Kempes Academic Funds
+        date: "2025"
+      - title: MIRAI Early Career Research Funding Programme
+        date: "2025"
+
+    Service:
+      - title: Journal Reviewer
+        details:
+          - Sustainable Cities and Society (JCR Q1)
+          - Building and Environment (JCR Q1)
+          - Energy and Buildings (JCR Q1)
+          - Indoor Air (JCR Q1)
+          - IEEE Access (JCR Q1)
+          - Science and Technology for the Built Environment (JCR Q2)
+      - title: Secretary, ASHRAE Sweden Student Branch
+      - title: Member, International Building Performance Simulation Association (IBPSA)
+      - title: Member, Umeå Student Union of Science and Technology (NTK)
+
+    Selected Projects:
+      - title: "Intelligent Human–Buildings Interactions Lab: Identify, Quantify and Guide Energy-saving Behavior at University Campus"
+        funder: FORMAS
+        role: PhD researcher (project funds my PhD)
+      - title: An experimental lab study of interaction between building energy-efficient measures and occupants' behaviors
+        funder: Swedish Energy Agency
+        role: PhD researcher (project funds my PhD)
+      - title: AURORAL — Architecture for Unified Regional and Open digital ecosystems for Smart Communities and wider Rural Areas Large scale application
+        funder: "European Union's Horizon 2020 (Grant N° 101016854)"
+        role: Data curation contributor (Jan – Feb 2024, full-time)
+      - title: Research on environment creation and intelligent control of temporally non-steady spatial non-uniform building temporary area
+        funder: National Natural Science Foundation of China (No. 52278119)
+        role: Contributed to four published journal articles
+      - title: Student Innovation Project Fund of NCWU
+        funder: NCWU
+        role: Host (2018, Grant 2018XB116)
+
+    Patents:
+      - "M. Wang, P. Liu, S. Mao, et al. A device to clean the solar panel automatically. CN110404835B."
+      - "B. Yang, P. Liu, Y. Liu, et al. An indoor environment regulating system combined with IJV and DPV. CN113242408A."
+      - "B. Yang, P. Liu, D. Jin, et al. Construction site safety monitoring system based on computer vision. CN113242408A / US Patent 11,858,419."
+      - "B. Yang, P. Liu, Y. Liu, et al. System and method for nighttime lighting control and danger monitoring and alarming. CN114364104A / US Patent 11,974,377."
+      - "B. Yang, P. Liu, Y. Liu, et al. System and method to create indoor thermal environment based on IJV and DPV. US Patent App. 17/844,684."
+      - "B. Yang, D. Jin, P. Liu, et al. Fatigue driving monitoring, reminding and early-warning method and system based on computer vision. US Patent 11,858,419."
+      - "B. Yang, P. Yang, P. Liu, et al. A temperature-controlled mattress system based on sleep posture detection. CN113303624A / US Patent App. 17/739,051."
+      - "B. Yang, D. Jin, Y. Liu, P. Liu, et al. Indoor personnel information identifying apparatus and method for assisting air conditioning system of on-demand air supply. US Patent App. 17/564,840."
+
+    Internship:
+      - position: HVAC Engineer
+        company: China Railway Fourth Survey and Design Institute Group Co. Ltd.
+        start_date: "2022-07"
+        end_date: "2022-08"
+        summary: HVAC system design and CFD numerical simulation.
 
     Skills:
-      - category: Programming
+      - category: Modeling and Simulation
         items:
-          - Python
-          - MATLAB
-      - category: Simulation tools
+          - Building energy modeling (EnergyPlus)
+          - Computational fluid dynamics (CFD)
+          - 2D and 3D mechanical modeling
+          - Reduced-order (RC) modeling
+      - category: Data and Optimization
         items:
-          - EnergyPlus
-          - Modelica
+          - Data analysis
+          - Optimization (multi-objective)
+          - Machine learning / AI for buildings
+      - category: Design and Tools
+        items:
+          - HVAC system design
+          - Scientific graphic drawing
+          - Office software
+
+    Languages:
+      - language: English
+        fluency: Professional working proficiency
+      - language: Mandarin Chinese
+        fluency: Native
