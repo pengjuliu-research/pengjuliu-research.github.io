@@ -6,7 +6,7 @@ subtitle: PhD Student · Umeå University · Building Energy Systems × AI
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Department of Applied Physics and Electronics</p>
@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm **Pengju Liu** (刘鹏举), a PhD student in the [Department of Applied Physics and Electronics](https://www.umu.se/en/department-of-applied-physics-and-electronics/) at **Umeå University**, Sweden.
+Hi, I'm **Pengju Liu** (刘朋举), a PhD student in the [Department of Applied Physics and Electronics](https://www.umu.se/en/department-of-applied-physics-and-electronics/) at **Umeå University**, Sweden.
 
 My research develops **energy-efficient and flexible building energy systems** by leveraging state-of-the-art **artificial intelligence (AI)** and **smart control** techniques. I work on demand response optimization for residential microgrids, occupant-centric control, reduced-order modeling of building thermal dynamics, and PCM-enhanced building envelopes. The goal is to help buildings become both more comfortable for the people inside and more flexible assets in a renewable-dominated grid — contributing to a sustainable Building Environment and Energy (BEE) future.
 
